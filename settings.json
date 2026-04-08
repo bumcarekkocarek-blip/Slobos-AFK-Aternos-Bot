@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "ExploitSMPhey.aternos.me:40166",
+    "port": 40166,
     "version": "",
     "try-creative": false
   },
