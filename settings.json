@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ExploitSMPhey.aternos.me:40166",
+    "ip": "ExploitSMPhey.aternos.me",
     "port": 40166,
     "version": "",
     "try-creative": false
